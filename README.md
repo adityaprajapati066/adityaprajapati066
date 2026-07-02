@@ -42,10 +42,9 @@
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Postman
+<p align="center">
+  <img src="http://skillicons.dev/icon?i=linux,python"/>
+</p>
 
 ---
 
