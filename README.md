@@ -33,11 +33,7 @@
 </p>
 
 
-### Programming Languages
 
-* JavaScript
-* C
-* Java
 
 ### Tools
 
