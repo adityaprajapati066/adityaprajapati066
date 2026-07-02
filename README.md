@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=adityaprajapati066&color=blue)
+
 
 💻 **MCA Student** | 🌱 MERN Stack Developer | 🚀 Passionate Learner
 
