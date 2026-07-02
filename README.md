@@ -64,17 +64,17 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaprajapati066\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprajapati066\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adityaprajapati066\&theme=tokyonight)
+
+
 
 ---
 
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/adityaprajapati066
-* LinkedIn: *(Add your LinkedIn profile here)*
-* Email: *(Add your email here)*
+* LinkedIn: https://www.linkedin.com/in/aditya-prajapati-627172418
+* Email: adityaprajapati066@gmail.com
 
 ---
 
