@@ -35,13 +35,6 @@
 
 
 
-### Tools
-
-<p align="center">
-  <img src="http://skillicons.dev/icon?i=linux,python"/>
-</p>
-
----
 
 ## 📚 Currently Learning
 
